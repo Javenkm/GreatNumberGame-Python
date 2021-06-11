@@ -1,0 +1,31 @@
+* {
+    margin: auto;
+    width: 970px;
+    box-sizing: border-box;
+}
+
+#wrapper {
+    width: 970px;
+    text-align: center;
+}
+
+h1 {
+    margin: 10px 0px 10px 0px;
+}
+
+h3 {
+    margin: 10px 0px 10px 0px;
+}
+
+form {
+    width: 150px;
+}
+
+#textInput {
+    width: 150px;
+    margin: 10px 0px 10px 0px;
+}
+
+button {
+    width: 150px;
+}
